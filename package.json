@@ -1,0 +1,32 @@
+{
+  "name": "create_studio_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowzack/Create_studio_service.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "js"
+  ],
+  "author": "mahmod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadowzack/Create_studio_service/issues"
+  },
+  "homepage": "https://github.com/shadowzack/Create_studio_service#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
